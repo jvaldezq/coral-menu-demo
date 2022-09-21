@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/coral-menu-demo/static/css/main.af278a77.css",
+    "main.js": "/coral-menu-demo/static/js/main.53cf8b13.js",
+    "static/js/787.2c95b945.chunk.js": "/coral-menu-demo/static/js/787.2c95b945.chunk.js",
+    "static/media/hamburgues.jpg": "/coral-menu-demo/static/media/hamburgues.6d35845d6dd4cb690491.jpg",
+    "static/media/dessert.jpg": "/coral-menu-demo/static/media/dessert.a8d7979ef122b1e6c327.jpg",
+    "service-worker.js": "/coral-menu-demo/service-worker.js",
+    "static/media/logo.png": "/coral-menu-demo/static/media/logo.52118445caa7f2005bf1.png",
+    "index.html": "/coral-menu-demo/index.html",
+    "main.af278a77.css.map": "/coral-menu-demo/static/css/main.af278a77.css.map",
+    "main.53cf8b13.js.map": "/coral-menu-demo/static/js/main.53cf8b13.js.map",
+    "787.2c95b945.chunk.js.map": "/coral-menu-demo/static/js/787.2c95b945.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af278a77.css",
+    "static/js/main.53cf8b13.js"
+  ]
+}
